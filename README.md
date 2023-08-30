@@ -36,11 +36,7 @@ Solidity development environment: Install the necessary tools to compile and int
 Clone the repository to your local machine using the following command:
 
 git clone https://github.com/naavy-jain/Token-Creation
-Navigate to the cloned directory:
-
-bash
-Copy code
-cd Token-Creation
+Navigate to the cloned directory:  cd Token-Creation
 Compile the Solidity contract using your preferred Solidity compiler. You can use tools like Remix or local development environments like Truffle or Hardhat.
 
 Deploy the compiled contract to the Ethereum blockchain using a development network or a testnet. Make sure to note the deployed contract's address for future interactions.
